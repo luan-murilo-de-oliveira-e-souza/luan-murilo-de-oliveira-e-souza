@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-• 👋 Hi, I'm Luan
-• ⚡ I’m interested in JavaScript, React
-• 🌱 I’m currently learning AWS
-• 👀 I’m looking to collaborate on new projects
+• 👋 Hi, I'm Luan <br />
+• ⚡ I’m interested in JavaScript, React <br />
+• 🌱 I’m currently learning AWS <br />
+• 👀 I’m looking to collaborate on new projects <br />
 • 📫 How to reach me: https://www.linkedin.com/in/luan-murilo-de-oliveira-e-souza-a3233290/
 
 <!--
