@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 • 👋 Hi, I'm Luan <br />
 • ⚡ I’m interested in JavaScript, React <br />
 • 🌱 I’m currently learning AWS <br />
