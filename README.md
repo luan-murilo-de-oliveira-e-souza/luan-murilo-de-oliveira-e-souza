@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+• 👋 Hi, I'm Luan
+• ⚡ I’m interested in JavaScript, React
+• 🌱 I’m currently learning AWS
+• 👀 I’m looking to collaborate on new projects
+• 📫 How to reach me: https://www.linkedin.com/in/luan-murilo-de-oliveira-e-souza-a3233290/
+
 <!--
 **luan-murilo-de-oliveira-e-souza/luan-murilo-de-oliveira-e-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
